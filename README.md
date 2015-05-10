@@ -41,6 +41,9 @@ web site</a>:
 
 When loading the dataset into R, please consider the following:
 
+* The dataset is committed to the repository as a zip file.  The data must be 
+unzipped before running any of this code.
+
 * The dataset has 2,075,259 rows and 9 columns. First
 calculate a rough estimate of how much memory the dataset will require
 in memory before reading into R. Make sure your computer has enough
